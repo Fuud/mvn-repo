@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.gridkit.lab</groupId>
+  <artifactId>vicluster-core</artifactId>
+  <versioning>
+    <release>0.8.4.fuud.fork</release>
+    <versions>
+      <version>0.8.4.fuud.fork</version>
+    </versions>
+    <lastUpdated>20141029102752</lastUpdated>
+  </versioning>
+</metadata>
