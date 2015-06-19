@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.spockframework</groupId>
   <artifactId>spock-core-fuud-fork</artifactId>
-  <version>1.0.3-groovy-2.3</version>
+  <version>1.0.4-groovy-2.3</version>
 
 <dependencies>
     <dependency>
