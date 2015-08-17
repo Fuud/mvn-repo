@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Aug 17 14:46:27 MSK 2015
+vicluster-core-0.8.7-agents.pom>=
+vicluster-core-0.8.7-agents-sources.jar>=
+vicluster-core-0.8.7-agents.jar>=
+vicluster-core-0.8.7-agents-javadoc.jar>=

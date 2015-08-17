@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Aug 17 14:46:40 MSK 2015
+nanotest-0.8.7-agents-javadoc.jar>=
+nanotest-0.8.7-agents.jar>=
+nanotest-0.8.7-agents.pom>=
+nanotest-0.8.7-agents-sources.jar>=

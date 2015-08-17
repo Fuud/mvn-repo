@@ -3,10 +3,10 @@
   <groupId>org.gridkit.lab</groupId>
   <artifactId>telecontrol-ssh</artifactId>
   <versioning>
-    <release>0.8.4.fuud.fork</release>
+    <release>0.8.7-agents</release>
     <versions>
-      <version>0.8.4.fuud.fork</version>
+      <version>0.8.7-agents</version>
     </versions>
-    <lastUpdated>20141029102813</lastUpdated>
+    <lastUpdated>20150817104637</lastUpdated>
   </versioning>
 </metadata>

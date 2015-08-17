@@ -3,10 +3,10 @@
   <groupId>org.gridkit.lab</groupId>
   <artifactId>viconcurrent</artifactId>
   <versioning>
-    <release>0.8.4.fuud.fork</release>
+    <release>0.8.7-agents</release>
     <versions>
-      <version>0.8.4.fuud.fork</version>
+      <version>0.8.7-agents</version>
     </versions>
-    <lastUpdated>20141029102439</lastUpdated>
+    <lastUpdated>20150817104610</lastUpdated>
   </versioning>
 </metadata>
